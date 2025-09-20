@@ -1,0 +1,17 @@
+path: .
+
+train: train
+val: val
+
+no : 8
+names:
+  [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H"
+  ]
